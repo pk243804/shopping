@@ -1,0 +1,34 @@
+.navbar-dark .navbar-nav .nav-link {
+    color: rgba(255,255,255,.9);
+    margin-left: 1.5rem;
+}
+.navbar{
+	padding-left: 2.5rem;
+	padding-right: 2.5rem;
+}
+.loginbtn{
+	margin-left: 620px;
+}
+
+
+
+
+.card {
+	border: 1px solid black !important;
+	border-radius: 0px !important;
+}
+
+
+
+.register_row{
+	border: 1px solid black;
+	padding: 30px;
+}
+
+
+
+
+.login_row{
+	border: 1px solid black;
+	padding: 32px;
+}
