@@ -81,9 +81,6 @@
               <div class="col-12">
                 <button name="register" class="btn btn-primary">Register</button>
               </div>
-              <div class="col-12">
-                <button name="register" class="btn btn-primary">Login</button>
-              </div>
 </form>
 </section>
 
